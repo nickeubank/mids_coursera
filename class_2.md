@@ -1,8 +1,13 @@
 # Class Two: Data Manipulation in Python
 
+## Overall learning objectives (mapped to specialization learning objectives):
+- Manage and manipulate real-world datasets for data science applications
+- Convey the results of programming analyses through data summaries and plots
+- Describe the components and packages of the Python ecosystem
+
 ## WEEK ONE
 
-- Theme: Welcome to arrays
+- Theme: Welcome to arrays and matrices, the foundational data structures for computation
 - Learning objectives: 
   - Understand why arrays are key to data science; 
   - learn basics of subsetting and manipulating arrays
@@ -11,8 +16,12 @@
 
 - Data science stack: Python -> numpy -> pandas
 
-### numpy
-
+### Data structures for computation (numpy)
+- **Why numpy**
+  - Easier to use for computational programming
+  - Faster than equivalent operations using Python lists
+  - Wide array of mathematical functions available in the library
+  - Integrates nicely with many other computational and plotting packages
 - **Vectors**
   - Why vectors? (for science, need multiple measurements of any outcome!)
   - What is vector? (single-typed, concept of order)
@@ -35,10 +44,11 @@
     - Understand the graphics of grammar
     - Be able to do basic plots in altair
 
-### pandas
+### Working with tabular data of mixed types (pandas)
 
-- **Why?**
-  - Heterogenous tables! 
+- **Why pandas?**
+  - Heterogenous tables!
+  - Easier to work with tabular data 
 - **Series**
   - Just a vector with a set of row labels called an index. 
   - Subsetting: `iloc[]` (like numpy) and `loc[]` (uses labels). 
@@ -52,6 +62,9 @@
 - **The Python Plotting Ecosystem**
   - matplotlib, seaborn, plotnine, altair
 - **Grammer of Graphics**
+- Common types of plots:
+  - Line, scatter, bar (histogram), heatmap
+- Saving your plots for sharing or reuse
 
 ## WEEK THREE (too ambitious?)
 
