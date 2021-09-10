@@ -17,11 +17,14 @@
 - Data science stack: Python -> numpy -> pandas
 
 ### Data structures for computation (numpy)
+
 - **Why numpy**
   - Easier to use for computational programming
   - Faster than equivalent operations using Python lists
   - Wide array of mathematical functions available in the library
   - Integrates nicely with many other computational and plotting packages
+- **Importing Packages**
+  - But not management -- want already installed. 
 - **Vectors**
   - Why vectors? (for science, need multiple measurements of any outcome!)
   - What is vector? (single-typed, concept of order)
@@ -56,6 +59,11 @@
   - Collection of Series. 
   - Summary functions
   - Subsetting ([modeled after this?](https://www.practicaldatascience.org/html/pandas_dataframes.html))
+- **Data Formats / Loading Data**
+  - JSON, tabular (csv, tsv), plaintext v. binary, etc.
+- **The views/copies disaster**
+
+## WEEK THREE
 
 ### plotting data
 
@@ -66,7 +74,7 @@
   - Line, scatter, bar (histogram), heatmap
 - Saving your plots for sharing or reuse
 
-## WEEK THREE (too ambitious?)
+## WEEK FOUR
 
 - Theme: Your data is never perfect. Here's how we can clean and manipulate it for insights. 		
 - Learning objective: 
@@ -74,36 +82,26 @@
   - Never trust your data too much
   - clean, merge, and manipulate data		
 
-### More Python
-
-- Loading data / data formats
-- Missing data representations / `pd.isnull()`
-- The views/copies disaster
-
 ### Data Manipulation
 
 - Cleaning
+  - Missing data representations / `pd.isnull()`
 - Merging
 - Groupby
 
-## WEEK FOUR 
+### Defensive Programming for Data Analysis
 
-*(If need to spread out week 3, we can move some of this to course 4)*
+- To err is human
+- Tests in ds code
+- Style matters (needed? ask D&G)
 
-- Theme: Big Data
-- Learning objectives
-  - Understand why loops are slow in Python
-  - Be able to recognize vectorized code
-  - Understand what makes big data big
+### Package Management (maybe here maybe not?)
+
+- pip / conda
+- Environments: maybe not full tutorial, but demystify / overview
+  - conda v. virtualenv v. pyenv
 
 
-### Performance
+## CLASS TWO RECAP / HIGHLIGHTS
 
-- Loops and vectorization
-- Parallelism and its limits
-
-### Big Data
-
-- What makes big data big (e.g. memory hierarchy)
-- Big data strategies (e.g. chunking)
-- Tools for big data: dask
+pick priorities
