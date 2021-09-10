@@ -48,10 +48,16 @@
 
 ## WEEK FOUR
 
-- Theme: Getting Help in Learning More
+- Theme: Getting Help in Learning More; Other Things
 - Learning objective: 
   - Data Science is changing quickly, so you will have to keep learning constantly
+
+### Forums 
 
 - How to post on stackoverflow
   - MWE, etiquette, problems of gender
 - Posting on github
+
+### Accessibility Tech
+
+- Data science resources for accessibility
