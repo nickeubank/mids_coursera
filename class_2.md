@@ -73,7 +73,9 @@
 - Merging
 - Groupby
 
-## WEEK FOUR
+## WEEK FOUR 
+
+*(If need to spread out week 3, we can move some of this to course 4)*
 
 - Theme: Big Data
 - Learning objectives
