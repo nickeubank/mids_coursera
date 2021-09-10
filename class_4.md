@@ -1,6 +1,26 @@
-# Class Four: Thinking Like a Data Scientist
+# Class Four: More stuff
+
 
 ## WEEK ONE
+
+- Theme: Big Data
+- Learning objectives
+  - Understand why loops are slow in Python
+  - Be able to recognize vectorized code
+  - Understand what makes big data big
+
+### Performance
+
+- Loops and vectorization
+- Parallelism and its limits
+
+### Big Data
+
+- What makes big data big (e.g. memory hierarchy)
+- Big data strategies (e.g. chunking)
+- Tools for big data: dask
+
+## WEEK TWO
 
 - Theme: Exploratory Data Analysis
 - Learning objectives: 
@@ -13,7 +33,7 @@
   - histograms, kdensities, scatter plots, basic fits (regression, loess)
 - Descriptive stats
 
-## WEEK TWO
+## WEEK THREE
 
 - Theme: Data Modeling
 - Learning objectives: 
@@ -32,25 +52,18 @@
 - **scikit-learn**
   - split, fit, predict
 
-## WEEK THREE
-
-- Theme: Defensive Programming
-- Learning objective: 
-  - Tests in data science code
-  - Never trust your data too much
-
-### Defensive Programming for Data Analysis
-
-- To err is human
-- Tests in ds code
-- Style matters
-- Don't transcribe
-
 ## WEEK FOUR
 
 - Theme: Getting Help in Learning More; Other Things
 - Learning objective: 
   - Data Science is changing quickly, so you will have to keep learning constantly
+
+### Workflows
+
+- Data analysis v. software engineering
+- don't edit your source data / data pipelines
+- Collaboration on github demonstration?
+- CI/CD
 
 ### Forums 
 
@@ -61,3 +74,5 @@
 ### Accessibility Tech
 
 - Data science resources for accessibility
+
+### Things we didn't talk about to know
