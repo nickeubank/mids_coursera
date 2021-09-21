@@ -1,18 +1,11 @@
-# Class Four: More stuff
 
-
-## WEEK ONE
+## WEEK ONE 
 
 - Theme: Big Data
 - Learning objectives
   - Understand why loops are slow in Python
   - Be able to recognize vectorized code
   - Understand what makes big data big
-
-### Performance
-
-- Loops and vectorization
-- Parallelism and its limits
 
 ### Big Data
 
@@ -22,16 +15,21 @@
 
 ## WEEK TWO
 
-- Theme: Exploratory Data Analysis
+- Theme: Plotting and Exploratory Data Analysis
 - Learning objectives: 
   - Never trust your data too much
   - Learn tools for data summarization
 
-### Plotting
+### Plotting Principles
 
-- Descriptive plots
-  - histograms, kdensities, scatter plots, basic fits (regression, loess)
-- Descriptive stats
+- Altair
+- Grammer of Graphics
+- Hierarchy of encodings
+
+### Using Plotting 
+
+- Uses: Exploration and Exposition
+- 
 
 ## WEEK THREE
 
@@ -74,5 +72,3 @@
 ### Accessibility Tech
 
 - Data science resources for accessibility
-
-### Things we didn't talk about to know
