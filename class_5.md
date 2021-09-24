@@ -1,11 +1,11 @@
+# Week 5: Towards the practice of data science
+- Theme: Program like a software engineer; think like a data scientist
 
 ## WEEK ONE 
 
-- Theme: Big Data
+- Theme: Big data
 - Learning objectives
-  - Understand why loops are slow in Python
-  - Be able to recognize vectorized code
-  - Understand what makes big data big
+  - Understand what makes big data big and how to work with it
 
 ### Big Data
 
@@ -19,22 +19,35 @@
 - Learning objectives: 
   - Never trust your data too much
   - Learn tools for data summarization
+  - Understand the plotting ecosystem in Python
+  - Understand the graphics of grammar
+  - Be able to do basic plots in altair
 
 ### Plotting Principles
 
-- Altair
+- Altair and its alternatives (matplotlib, plotly, etc.)
+- Why Altair?
 - Grammer of Graphics
 - Hierarchy of encodings
+- Common plot forms: scatter, line, bar, histogram, and heatmaps
 
-### Using Plotting 
+### Effective plotting 
 
-- Uses: Exploration and Exposition
-- 
+- Exploration and Exposition
+- Communication and summarization
+- Examples from real data sources
+
+### Interactive plotting
+- Enables rapid exploration of data and is web-friendly
+- Altair can create interactive plots implicitly
 
 ## WEEK THREE
 
 - Theme: Data Modeling
 - Learning objectives: 
+  - Examples of common data science applicatins and the programming strategies used
+  - Understand common packages to be conversant in the lingua franca
+  - Work through examples of each as a "hello world" of applied programming for data science
 
 ### Linear Regression
 
@@ -72,3 +85,13 @@
 ### Accessibility Tech
 
 - Data science resources for accessibility
+
+## WEEK FIVE
+
+- Theme: Bringing it all together
+- Learning objective:
+  - Complete a worked example that brings together content from all 5 of the specialization courses
+
+### Comprehensive example
+- This example should include all of key practices from throoughout the 5 courses
+- Conclude week 5 with a summary of what was learned
