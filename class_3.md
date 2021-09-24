@@ -16,7 +16,8 @@
 
 - **Why pandas?**
   - Heterogenous tables!
-  - Easier to work with tabular data 
+  - Easier to work with tabular data
+  - More robust for strings, objects, etc.
 - **Series**
   - Just a vector with a set of row labels called an index. 
   - Subsetting and indexing: `iloc[]` (like numpy) and `loc[]` (uses labels). 
@@ -40,14 +41,10 @@
   - Missing data representations / `pd.isnull()`
   - NaNs, Infs, Null/None, and placeholder values
   - Replacing values
--  **Exporting data to files**
-
-### Defensive Programming for Data Analysis
-
-- To err is human
-- Tests in ds code
-- Style matters: PEP8 (needed? ask D&G)
-- Data version control concepts that can be depoyed programmatically 
+  - When checking things, put test in your code!
+- **Exporting data to files**
+  - Sending back to numpy
+- **Data version control concepts that can be deployed programmatically**
   - Saving and updating preprocessing scripts/modules
   - Always save your raw data
 
@@ -56,5 +53,6 @@
 ### Data Manipulation
 
 - **Merging**
+  - Inline tests
 - **Groupby**
 - **Worked example showing the usefulness of Pandas on real data**

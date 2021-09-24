@@ -30,7 +30,7 @@
   - Integrates nicely with many other computational and plotting packages
 
 - **Importing Packages**
-  - But not management -- want already installed.
+  - Remember how you saw `import` before? Here's some more cool tricks.
   - Packages, modules, and methods/functions
   - Import statements and the multiple ways of importing or referencing modules and functions
   - Aliases
@@ -38,7 +38,7 @@
 - **Vectors**
   - Why vectors? 
     - For science, need multiple measurements of any outcome!
-    - Timeseries data
+    - Timeseries data (you've seen before with heartrates, but here's as arrays not lists)
     - Collections of attributes representing a sample
   - What is vector? (single-typed, concept of order)
   - Vector math / operations (modelled [after this?](https://cm4ss.com/html/intro_to_vectors.html))
@@ -56,6 +56,7 @@
   - Why matrices?
     - Often we want to measure different outcomes for the same units of analysis, so we can stack vectors to make a matrix
     - Many forms of data are inherently in a matrix form (i.e. imagery data)
+      - Links back to "everything is a number" from D&G
     - There are computational benefits to vector operations (to be discussed later)
   - Matrix math ([modeled after this?](https://cm4ss.com/html/intro_to_matrices.html))
     - Common operations: transpose, dot products (vectors), matrix multiplication (a collection of dot products), and element-wise operations

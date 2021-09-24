@@ -45,7 +45,7 @@
 
 - Theme: Data Modeling
 - Learning objectives: 
-  - Examples of common data science applicatins and the programming strategies used
+  - Examples of common data science applications and the programming strategies used
   - Understand common packages to be conversant in the lingua franca
   - Work through examples of each as a "hello world" of applied programming for data science
 
