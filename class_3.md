@@ -5,7 +5,7 @@
 
 (Drew and Genevieve: exceptions, tracebacks, and I/O)
 
-## WEEK TWO
+## WEEK TWO @kylebradbury
 
 - Theme: Welcome to pandas
 - Learning objectives: 
@@ -30,7 +30,7 @@
   - Calculating counts, min, max, means, etc.
   - Working with categorical vs numerical vs textual data
 
-## WEEK THREE
+## WEEK THREE @nickeubank
 
 ### Loading and cleaning data
 
@@ -48,7 +48,7 @@
   - Saving and updating preprocessing scripts/modules
   - Always save your raw data
 
-## WEEK FOUR
+## WEEK FOUR @kylebradbury
 
 ### Data Manipulation
 

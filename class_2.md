@@ -9,7 +9,7 @@
 
 (Drew and Genevieve on OOP, Sets, and Dicts)
 
-## WEEK TWO
+## WEEK TWO @nickeubank
 
 - Theme: Welcome to arrays and matrices, the foundational data structures for computation
 - Learning objectives: 
@@ -45,7 +45,7 @@
   - Subsetting vectors (by index, by logicals) (modelled [after this?](https://cm4ss.com/html/manipulating_vectors.html))
   - Editing vectors
 
-## WEEK THREE
+## WEEK THREE @nickeubank
 
 - **Views v. copies**
   - What is a view vs a copy
@@ -64,7 +64,8 @@
     - Indexing: accessing individual elements, accessing subsets through slicing, logical indexing, fancy indexing
     - Reminders around views/copies
 
-## WEEK FOUR
+## WEEK FOUR @kylebradbury
+
 - **How to summarize information in arrays?**
   - Counting, summing, averaging
   - Generating histograms

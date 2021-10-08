@@ -1,7 +1,7 @@
 # Week 5: Towards the practice of data science
 - Theme: Program like a software engineer; think like a data scientist
 
-## WEEK ONE 
+## WEEK ONE @nickeubank
 
 - Theme: Big data
 - Learning objectives
@@ -13,7 +13,7 @@
 - Big data strategies (e.g. chunking)
 - Tools for big data: dask
 
-## WEEK TWO
+## WEEK TWO @kylebradbury
 
 - Theme: Plotting and Exploratory Data Analysis
 - Learning objectives: 
@@ -49,13 +49,19 @@
   - Understand common packages to be conversant in the lingua franca
   - Work through examples of each as a "hello world" of applied programming for data science
 
-### Linear Regression
+### What is Data Modelling? @kylebradbury
+
+- Overview! "Dimensionality reduction" 
+- representing data with high-fidelity
+- Datasaurus / Anscombes Quartet
+
+### Linear Regression @nickeubank
 
 - What Is Linear Regression?
 - What Are Standard Errors?
 - Modelling with `statsmodels`
 
-### Machine Learning
+### Machine Learning @kylebradbury
 
 - **What is it?**
   - Unsupervised Machine Learning
@@ -63,7 +69,7 @@
 - **scikit-learn**
   - split, fit, predict
 
-## WEEK FOUR
+## WEEK FOUR [assignment TBD]
 
 - Theme: Getting Help in Learning More; Other Things
 - Learning objective: 
@@ -86,12 +92,13 @@
 
 - Data science resources for accessibility
 
-## WEEK FIVE
+## WEEK FIVE [assignment / content TBD]
 
 - Theme: Bringing it all together
 - Learning objective:
   - Complete a worked example that brings together content from all 5 of the specialization courses
 
 ### Comprehensive example
-- This example should include all of key practices from throoughout the 5 courses
+
+- This example should include all of key practices from through out the 5 courses
 - Conclude week 5 with a summary of what was learned
